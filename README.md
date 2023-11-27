@@ -4,9 +4,7 @@ With this data I practice different process for data analysis and also obtain qu
 Have to clean data, removing Nan data rows
 Change data types
 Add columns according with data
-Make queries
-Make charts
-etc
+making queries, charts, etc.
 
 
 
